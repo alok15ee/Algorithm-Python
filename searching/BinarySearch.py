@@ -13,9 +13,6 @@ Running time :
 O(logn)
 '''
 
-
-
-
 def binary_search(search_list, item):
 
     low = search_list[0]
